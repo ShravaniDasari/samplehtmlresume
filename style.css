@@ -1,0 +1,11 @@
+body{
+    background-image: url('b3.jpg');
+    color:black;
+    margin: 4%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dark-mode {
+    background-image: url('bck.jpg');
+    color: black;
+  }
